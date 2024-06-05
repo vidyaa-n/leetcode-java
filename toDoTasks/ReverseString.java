@@ -2,7 +2,7 @@ package toDoTasks;
 
 public class ReverseString {
 	
-	public char[] reverseString(char[] s) {
+	public char[] reverseString(char[] s) {	// using In-place algorithm
         
 		char temp = '0';
         int n = s.length;
